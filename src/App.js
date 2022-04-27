@@ -51,7 +51,7 @@ function App() {
 										<Link to="/gallery">Gallery</Link>
 									</li>
 									<li>
-										<Link to="/mytokens">My Exobits</Link>
+										<Link to="/mytokens">My NFT's</Link>
 									</li>
 								</>}
 								<li>
