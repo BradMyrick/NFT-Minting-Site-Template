@@ -36,8 +36,10 @@ function App() {
 		<div className="App">
 			<Router>
 				<header>
-					<Link to="/">
-						
+					<Link to="/" >
+						<logo>
+							<img src="banner.png" alt="TV banner" />
+						</logo>
 					</Link>
 					<nav>
 						<ul>
